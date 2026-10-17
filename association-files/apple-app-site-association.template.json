@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["APPLE_TEAM_ID.com.perifury.triku"],
+        "components": [
+          { "/": "/contests/*" },
+          { "/": "/events/*" },
+          { "/": "/wallet" },
+          { "/": "/verification/aadhaar" }
+        ]
+      }
+    ]
+  }
+}
